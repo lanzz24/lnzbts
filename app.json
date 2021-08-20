@@ -1,19 +1,18 @@
 {
-  "name": "Whatsbot",
-  "description": "Modular Userbot for Whatsapp",
-  "repository": "https://github.com/TheWhatsBot/WhatsBot",
-  "logo": "https://telegra.ph/file/96ccad5945c18944c5f15.png",
+  "name": "FADHLANZZ GANTENG",
+  "description": "BACOD LO MONYET",
+  "repository": "https://github.com/lanzz24/lnzbts",
+  "logo": "https://i.ibb.co/jTKG9SC/IMG-20210812-121619-261.jpg",
   "keywords": [
-    "whatsbot",
+    "fadhlanz",
     "whatsapp-userbot",
     "whatsapp-bot",
-    "whatsapp-userbot",
     "whatsapp"
   ],
   "stack": "container",
   "env": {
     "SESSION": {
-      "description": "Puppeteer Session. Get it by running genToken.js",
+      "description": "DAPETIN TOKENLU DI SINI. genToken.js",
       "value": ""
     },
     "PMPERMIT_ENABLED": {
@@ -25,19 +24,19 @@
       "value": ""
     },
     "PMPERMIT_MUTETIME": {
-      "description": "How many seconds an user get muted if he is spamming. Default is 30 Minutes (1800 Secs)",
+      "description": "Berapa detik pengguna dibisukan jika dia melakukan spam. Standarnya adalah 30 Menit (1800 Detik)",
       "value": "1800"
     },
     "YT_DATA_API_KEY": {
-      "description": "Youtube DATA API key, grab it from cloud.google.com",
+      "description": "Kunci API DATA Youtube, ambil dari cloud.google.com",
       "value": ""
     },
     "DEFAULT_TR_LANG": {
-      "description": "Default Translation Language",
-      "value": "en"
+      "description": "Bahasa Terjemahan Default",
+      "value": "id"
     },
     "ENABLE_DELETE_ALERT": {
-      "description": "If true & if someone delete message in PM, Bot will send the deleted message in that chat (Exclude Media)",
+      "description": "Jika benar & jika seseorang menghapus pesan di PM, Bot akan mengirim pesan yang dihapus di obrolan itu (Kecualikan Media)",
       "value": "true"
     },
     "OCR_SPACE_API_KEY": {
